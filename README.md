@@ -2,11 +2,11 @@
 
 ## Why?
 
-90% of websurfing today is shutting down popups that get in the way of the content you're looking for and is writter by lawers that hate the internet.
+90% of websurfing today is shutting down popups that get in the way of the content you're looking for and is writter by lawyers that hate the internet.
 
 ## What?
 
-This Chrome extension removes the DOM elements from the websites you use with, based on a blacklisted list of ids and classes.
+This Chrome extension removes the DOM elements from the websites you visit, based on a blacklisted list of ids and classes.
 
 ## How to help?
 
