@@ -1,0 +1,13 @@
+{
+  "name": "GDPR Popup blocker",
+  "version": "1.0",
+  "description": "Removes annoying popups and chatbots from websites!",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "manifest_version": 2
+}
