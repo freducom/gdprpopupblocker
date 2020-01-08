@@ -4,6 +4,9 @@
 
 90% of websurfing today is shutting down popups that get in the way of the content you're looking for and is writter by lawyers that hate the internet.
 
+![Marketing video](https://github.com/freducom/gdprpopupblocker/blob/master/marketing/marketingvideo.gif)
+
+
 ## What?
 
 This Chrome extension removes the DOM elements from the websites you visit, based on a blacklisted list of ids and classes. Popular popups such as Hubspot GDPR acceptance and Intercom's chat window are automatically removed from any site you visit.
