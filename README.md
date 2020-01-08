@@ -6,7 +6,7 @@
 
 ## What?
 
-This Chrome extension removes the DOM elements from the websites you visit, based on a blacklisted list of ids and classes.
+This Chrome extension removes the DOM elements from the websites you visit, based on a blacklisted list of ids and classes. Popular popups such as Hubspot GDPR acceptance and Intercom's chat window are automatically removed from any site you visit.
 
 ## How to help?
 
