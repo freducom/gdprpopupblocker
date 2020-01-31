@@ -16,6 +16,8 @@ window.addEventListener('load', function() {
     const classes = [
         'alma-data-policy-banner', //alma privacy
         'as-oil-greeter', // alma popup
+	'tp-backdrop', //independent.co.uk
+	'tp-modal', //independent.co.uk
     ]
 
     //Timeout that waits for async crap to load
