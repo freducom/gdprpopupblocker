@@ -10,7 +10,8 @@ window.addEventListener('load', function() {
         'banner__container', //nytimes gdpr crap
         'cx_bottom_banner', //nbcnews
         'privacy-consent', //theverge
-        'chatbot-chat' //chatbot.com
+        'chatbot-chat', //chatbot.com
+	'CybotCookiebotDialog', //Cookie dialogue
     ];
 
     const classes = [
